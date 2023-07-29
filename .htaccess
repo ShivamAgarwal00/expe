@@ -1,7 +1,7 @@
 
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^yourwebsite\.in$
-RewriteRule ^/?$ "http\:\/\/www\.yourwebsite\.in\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^shivamagarwal00.github.io/expe/\.in$
+RewriteRule ^/?$ "http\:\/\/www\.shivamagarwal00.github.io/expe/\.in\/" [R=301,L]
 RewriteEngine on
 RewriteBase /
 RewriteCond %{HTTP_USER_AGENT} almaden [OR]
